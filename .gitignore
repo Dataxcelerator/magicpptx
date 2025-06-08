@@ -5,7 +5,10 @@ __pycache__/
 .env
 # C extensions
 *.so
-
+/elasticsearch-8.12.1/
+/elasticsearch-8.12.1-linux-x86_64.tar.gz
+/kibana-8.12.1-linux-x86_64.tar.gz
+/kibana-8.12.1/
 # Distribution / packaging
 .Python
 build/
